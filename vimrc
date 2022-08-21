@@ -21,6 +21,7 @@ Plug 'sainnhe/edge'
 "Plug 'luochen1990/rainbow'
 Plug 'NLKNguyen/papercolor-theme'
 Plug 'Yggdroot/indentLine'
+Plug 'arcticicestudio/nord-vim'
 call plug#end()
 
 set autoindent
@@ -45,7 +46,7 @@ set background=dark
 
 "let g:sonokai_style = 'atlantis'
 "let g:sonokai_better_performance = 1
-colorscheme habamax
+colorscheme nord
 
 set cursorline
 set nofoldenable
